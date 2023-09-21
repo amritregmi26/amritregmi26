@@ -1,6 +1,6 @@
 ## 💫 About Me:
-🔭 I'm currently working on a Flask based web app
-🌱 I’m currently learning Python 
+-🔭 I'm currently working on a Flask based web app
+-🌱 I’m currently learning Python 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrit-regmi-527082232/) 
