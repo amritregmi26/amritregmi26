@@ -1,9 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on React Based Website<br>🌱 I’m currently learning React JS
 
----
-![Views](https://komarev.com/ghpvc/?username=amritregmi26&label=Profile%20views&color=0e75b6&style=flat)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amrit-regmi-527082232) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/IamAmritRegmi) 
 
