@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on PostLux<br>🌱 I’m currently learning React JS
 
+---
+[![](https://visitcount.itsvg.in/api?id=amritregmi26&label=Profile%20Views&color=9&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amrit-regmi-527082232) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/IamAmritRegmi) 
 
