@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with React JS<br>🌱 I’m currently learning React JS
+🤝 I’m looking for help with React JS<br>🌱 I’m currently learning React JS and Data Structures using JavaScript
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amritregmi26&label=Profile%20Views&color=9&icon=5&pretty=false)](https://visitcount.itsvg.in)
