@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with React JS<br>🌱 I’m currently learning React JS and Data Structures using JavaScript <br> 🔭 I’m currently working on React Based Multi Step Form
+🤝 I’m looking for help with Python<br>🌱 I’m currently learning Python
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amritregmi26&label=Profile%20Views&color=9&icon=5&pretty=false)](https://visitcount.itsvg.in)
