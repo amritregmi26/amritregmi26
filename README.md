@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with Python<br>🌱 I’m currently learning Python
+🤝 I’m looking for help with Odoo<br>🌱 I’m currently learning Odoo<br>🚀 Ask me about JS and Python
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amritregmi26&label=Profile%20Views&color=9&icon=5&pretty=false)](https://visitcount.itsvg.in)
